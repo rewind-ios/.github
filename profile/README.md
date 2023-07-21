@@ -1,7 +1,7 @@
 # Rewind
 
 ## Introduction
-**Rewind** est une application native iOS qui permet de découvrir chaque semaine de nouveaux morceaux de musique dans le but d'enrichier sa playlist. Voir ci-dessous le contenu de l'app:
+**Rewind** est une application native iOS qui permet de découvrir chaque semaine de nouveaux morceaux de musique dans le but d'enrichir sa playlist. Voir ci-dessous le contenu de l'app:
 
 
 
