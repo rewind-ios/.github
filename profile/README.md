@@ -15,9 +15,7 @@
 
 > **Note:** Compatible avec iOS 16.1 ou version supérieure.
 
-## Informations
-
-Pour toute demande, n'hesitez pas à me contacter.  
+## Informations  
 
 Contact : jules.gazengel@outlook.fr  
 Documentation : bientôt disponible
